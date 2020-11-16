@@ -1,0 +1,86 @@
+/* navbar */
+.navbar-expand-lg{
+    background-color: white;
+}
+.nav-item, .navbar-text{
+    font-family:  sans-serif;
+    font-size: 20px;
+    line-width: 4rem;
+}
+/* content */
+#content{
+    text-align: center;
+    padding-top: 2rem;
+}
+.content1{
+    text-align: center;
+    padding: 3rem;
+}
+#hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;  
+}
+#p{
+    color: red;
+}
+#p1{
+    color: grey;
+}
+
+/* footer */
+#ft{
+    background-color: whitesmoke;
+    padding: 5rem;
+    font-family:sans-serif ;
+}
+#copyright{
+    text-align: center;
+    padding: 2rem;
+    background-color: whitesmoke;
+}
+
+/* Pagelogin */
+#lg{
+    margin-top: 2rem;
+    font-family: serif;
+}
+
+/* About Us */
+#abt{
+    margin-top: 2rem;
+    font-family: sans-serif;
+    padding: 2rem;
+}
+
+/* order */
+#po{
+    color: black;
+    font-size: 20px;
+    margin-top: 2rem;
+}
+#po1{
+    color: gray;
+    font-size: 20px;
+}
+
+/* HelmetCustom */
+#uk{
+    width: 40px;
+}
+.quantity-wrapper.quantity-style--box .quantity-input {
+    width: 100%;
+}
+.quantity-input.input {
+    -moz-appearance: textfield;
+    box-shadow: none;
+    border: 0;
+}
+
+.cobah1{
+    font-size: 200px;
+}
